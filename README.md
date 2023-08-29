@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawankumar Shedage</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [Spring Boot](https://github.com/Pawankumar-shedage/Book-Store-Management-SpringBoot-Project)
+- 🔭 I’m currently working on [React](https://react-basics-fundamentals.vercel.app/)
 
 - 🌱 I’m currently learning **React, Spring, Web Design**
 
