@@ -20,7 +20,7 @@
 <a href="https://twitter.com/tragic747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tragic747" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pawankumarshedage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawankumarshedage" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22259292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22259292" height="30" width="40" /></a>
-<a href="https://instagram.com/pawankumar623824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawankumar623824" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pawankumar_shedge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawankumar_shedge" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pawankumar_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawankumar_123" height="30" width="40" /></a>
 </p>
 
